@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnoHttp", "UnoHttp.csproj", "{52A51D99-FA24-4B3D-9758-F90ED5DD25DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B52A4C5-4E1C-4BB9-AF1F-F8A536E45618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A51D99-FA24-4B3D-9758-F90ED5DD25DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A51D99-FA24-4B3D-9758-F90ED5DD25DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A51D99-FA24-4B3D-9758-F90ED5DD25DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A51D99-FA24-4B3D-9758-F90ED5DD25DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B3DC61-7F50-4B54-970D-77FBC2DD08A7}
+	EndGlobalSection
+EndGlobal

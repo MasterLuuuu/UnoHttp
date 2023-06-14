@@ -54,7 +54,7 @@ namespace UnoHttp
 		}
 		public IEnumerable<T> GetSockerMsgMerable<T>() //返回反序列化队列的消息的迭代器
 		{
-			return ClientSubscribe.MsgMerable<T>.GetmsgmerableFunc();
+			return ClientSubscribe.MsgMerable<T>.GetmsgmerableFunc(); 
 		}
 		public async Task SendSubscribe(string subscribegraphql)//发送订阅
 		{

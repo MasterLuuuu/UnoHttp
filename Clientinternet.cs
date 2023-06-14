@@ -10,7 +10,7 @@ using GraphQL.Client.Serializer.Newtonsoft;
 using System.Collections.Generic;
 
 namespace UnoHttp
-{
+{ 
 	internal struct NetworkIntermedia<T>
 	{
 		public T data;

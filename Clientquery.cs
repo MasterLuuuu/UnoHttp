@@ -7,7 +7,7 @@ using GraphQL.Types;
 using GraphQL.SystemTextJson;
 using GraphQL.Client.Http;
 using GraphQL.Client.Serializer.Newtonsoft;
-
+ 
 namespace UnoHttp
 {
 	internal class Clientquery
